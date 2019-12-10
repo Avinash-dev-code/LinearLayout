@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LinearLayout</string>
+    <string name="button1">button1</string>
+    <string name="button2">button2</string>
+    <string name="button3">Button3</string>
+    <string name="button4">Button4</string>
+
+</resources>
